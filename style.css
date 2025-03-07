@@ -28,3 +28,10 @@ nav{
     cursor: pointer;
     margin-left: 30px;
 }
+nav ul{
+    width: 100%;
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+}

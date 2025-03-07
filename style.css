@@ -44,3 +44,9 @@ nav ul li a{
 nav ul li a:hover{
     color: #0bffeb;
 }
+.sub-menu-wrap{
+    position: absolute;
+    top: 100%;
+    right: 10%;
+    width: 320px;
+}

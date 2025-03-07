@@ -50,3 +50,8 @@ nav ul li a:hover{
     right: 10%;
     width: 320px;
 }
+.sub-menu{
+    background: #fff;
+    padding: 20px;
+    margin: 10px;
+}

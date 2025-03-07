@@ -55,3 +55,15 @@ nav ul li a:hover{
     padding: 20px;
     margin: 10px;
 }
+.user-info{
+    display: flex;
+    align-items: center;
+}
+.user-info h2{
+font-weight: 500;
+}
+.user-info img{
+    width: 60px;
+    border-radius: 50%;
+    margin-right: 15px;
+}

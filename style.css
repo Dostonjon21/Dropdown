@@ -94,3 +94,6 @@ font-weight: 500;
 .sub-menu-link span{
     font-size: 22px;
 }
+.sub-menu-link:hover span{
+    transform: translateX(5px);
+}

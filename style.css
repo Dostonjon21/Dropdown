@@ -67,3 +67,10 @@ font-weight: 500;
     border-radius: 50%;
     margin-right: 15px;
 }
+.sub-menu{
+    border: 0;
+    height: 1px;
+    width: 100%;
+    background: #ccc;
+    margin: 15px 0 10px;
+}

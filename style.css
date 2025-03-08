@@ -53,6 +53,9 @@ nav ul li a:hover{
     overflow: hidden;
     transition: max-height 0.5s;
 }
+.sub-menu-wrap.open-menu{
+    
+}
 .sub-menu{
     background: #fff;
     padding: 20px;

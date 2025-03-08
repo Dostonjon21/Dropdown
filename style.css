@@ -49,8 +49,9 @@ nav ul li a:hover{
     top: 100%;
     right: 10%;
     width: 320px;
-    max-height: 400px;
+    max-height: 0px;
     overflow: hidden;
+    transition: max-height 0.5s;
 }
 .sub-menu{
     background: #fff;

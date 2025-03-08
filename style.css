@@ -49,7 +49,7 @@ nav ul li a:hover{
     top: 100%;
     right: 10%;
     width: 320px;
-    max-height: 0px;
+    max-height: 400px;
     overflow: hidden;
 }
 .sub-menu{

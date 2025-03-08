@@ -81,3 +81,12 @@ font-weight: 500;
     color: #525252;
     margin: 12px 0;
 }
+.sub-menu-link p{
+    width: 100%;
+}
+.sub-menu-link img{
+    width: 40px;
+    background: #e5e5e5;
+    border-radius: 50%;
+    
+}

@@ -77,5 +77,7 @@ font-weight: 500;
 .sub-menu-link{
     display: flex;
     align-items: center;
-    
+    text-decoration:none;
+    color: #525252;
+    margin: 12px 0;
 }

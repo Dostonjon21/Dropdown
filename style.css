@@ -54,7 +54,7 @@ nav ul li a:hover{
     transition: max-height 0.5s;
 }
 .sub-menu-wrap.open-menu{
-    
+    max-height: 400px;
 }
 .sub-menu{
     background: #fff;

@@ -75,5 +75,7 @@ font-weight: 500;
     margin: 15px 0 10px;
 }
 .sub-menu-link{
+    display: flex;
+    align-items: center;
     
 }

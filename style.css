@@ -99,5 +99,5 @@ font-weight: 500;
     transform: translateX(5px);
 }
 .sub-menu-link:hover p{
-    
+    font-weight: 600;
 }
